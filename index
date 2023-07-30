@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BilingualCareerBoost - Impulsa tu Carrera Bilingüe | Boost Your Bilingual Career</title>
+    <link rel="stylesheet" href="styles.css"> <!CSS link -->
+</head>
+<body>
+    <!-- Encabezado de la página / Page Header -->
+    <header>
+        <h1>BilingualCareerBoost</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Acerca de / About</a></li>
+                <li><a href="#features">Características / Features</a></li>
+                <li><a href="#get-started">Empezar / Get Started</a></li>
+                <li><a href="#contact">Contacto / Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección de presentación / Presentation Section -->
+    <section id="presentation">
+        <div class="container">
+            <h2>Impulsa tu Carrera Bilingüe</h2>
+            <h2>Boost Your Bilingual Career</h2>
+            <p>BilingualCareerBoost es tu puerta de entrada para desbloquear nuevas oportunidades laborales y alcanzar el crecimiento profesional a través de la fluidez bilingüe.</p>
+            <p>BilingualCareerBoost is your gateway to unlocking new job opportunities and achieving career growth through bilingual proficiency.</p>
+            <a href="#get-started" class="btn">Empezar / Get Started</a>
+        </div>
+    </section>
+
+    <!-- Sección Acerca de / About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>Acerca de BilingualCareerBoost</h2>
+            <h2>About BilingualCareerBoost</h2>
+            <p>BilingualCareerBoost es un proyecto web destinado a empoderar a las personas con habilidades bilingües para mejorar su trayectoria profesional. Esta plataforma proporciona recursos valiosos, consejos prácticos y oportunidades laborales para impulsar tus perspectivas de carrera bilingüe.</p>
+            <p>BilingualCareerBoost is a web project aimed at empowering individuals with bilingual skills to enhance their professional journey. This platform provides valuable resources, practical tips, and career opportunities to boost your bilingual career prospects.</p>
+        </div>
+    </section>
+
+    <!-- Sección Características / Features Section -->
+    <section id="features">
+        <div class="container">
+            <h2>Características / Features</h2>
+            <ul>
+                <li>Learn strategies to improve language proficiency.</li>
+                <li>Accede a recursos valiosos para el aprendizaje de idiomas.</li>
+                <li>Descubre ideas de profesionales bilingües exitosos.</li>
+                <li>Explora oportunidades laborales bilingües con listados de empleos.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Sección Empezar / Get Started Section -->
+    <section id="get-started">
+        <div class="container">
+            <h2>Empezar</h2>
+            <h2>Get Started</h2>
+            <p>Comienza tu camino hacia una mejor calidad de vida con un empleo bilingüe y habilidades de liderazgo:</p>
+            <p>Start your journey towards a better quality of life with a bilingual job and leadership skills:</p>
+            <ol>
+                <li>Explore las valiosas estrategias para mejorar tu habilidad bilingüe.</li>
+                <li>Accede a recursos útiles para el desarrollo de habilidades de liderazgo.</li>
+                <li>Descubre historias de éxito de profesionales bilingües.</li>
+                <li>Explora oportunidades laborales bilingües con nuestra lista de empleos.</li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- Sección Contacto / Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contacto / Contact</h2>
+            <p>Para consultas o sugerencias, contáctanos en <a href="mailto:davidlegorreta@comunidad.unam.mx">davidlegorreta@comunidad.unam.mx</a></p>
+            <p>For inquiries or suggestions, please contact us at <a href="mailto:davidlegorreta@comunidad.unam.mx">davidlegorreta@comunidad.unam.mx</a></p>
+        </div>
+    </section>
+
+    <!-- Pie de página / Footer -->
+    <footer>
+        <p>&copy; 2023 Diego David Gonzalez Legorreta - BilingualCareerBoost</p>
+    </footer>
+</body>
+</html>
